@@ -1,21 +1,30 @@
-name: Generate Snake
+name: Generate Snake 🐍
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"  # jalan tiap tengah malam
+  schedule:
+    - cron: "0 0 * * *" # update tiap tengah malam
   workflow_dispatch:
 
 jobs:
   build:
+    name: Generate Snake
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub contribution grid snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RamaKazuya
-          outputs: dist/snake.svg
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/ocean-snake.svg?palette=github-dark&color_snake=00FFFF&color_dots=#111111,#00FFFF,#7DF9FF,#0077FF
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
