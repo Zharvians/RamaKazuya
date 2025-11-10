@@ -21,8 +21,7 @@
 ---
 
 
-![Car](https://github.com/Zharvians/Zharvians/blob/output/car-animation.html)
-<img src="https://github.com/Zharvians/Zharvians/blob/output/car-animation.html" />
+![Endless Ride](./assets/ride.gif)
 
 ---
 
