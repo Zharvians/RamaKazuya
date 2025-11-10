@@ -6,6 +6,14 @@
 
 <div align="center">
 
+<!-- About Me -->
+## About Me
+Hi, I'm Zharvian — a passionate developer with interests in web, mobile, and game development. I enjoy learning new technologies and creating cool projects that push the limits of what's possible.  
+Check out more: [My About Page](https://zharvians.github.io/aboutme/)
+
+---
+
+<!-- Skills -->
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -15,16 +23,21 @@
 
 ---
 
+<!-- Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=RamaKazuya&show_icons=true&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff&icon_color=8000ff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamaKazuya&layout=compact&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff)
 
 ---
 
+<!-- Partner -->
+## Partner
+[![LunarScribe](https://img.shields.io/badge/LunarScribe-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarScribeStudios)
+
+---
 
 <p align="center">
   <img src="./assets/ride.gif" alt="Endless Ride" width="1100" height="500" style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.2);"/>
 </p>
-
 
 ---
 
