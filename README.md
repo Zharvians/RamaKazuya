@@ -6,10 +6,15 @@
 
 <div align="center">
 
-<!-- About Me -->
-## About Me
-Hi, I'm Zharvian — a passionate developer with interests in web, mobile, and game development. I enjoy learning new technologies and creating cool projects that push the limits of what's possible.  
-Check out more: [My About Page](https://zharvians.github.io/aboutme/)
+<!-- About Me - Mewah -->
+<div style="background: linear-gradient(135deg, #000000, #1a1a1a, #8000ff); border-radius: 20px; padding: 30px; margin-bottom: 40px; box-shadow: 0 0 40px rgba(128, 0, 255, 0.6); max-width: 800px;">
+  <h2 style="color:#ffffff; font-family: 'Share Tech Mono', monospace; font-size: 28px;">About Me</h2>
+  <p style="color:#cccccc; font-size:16px; line-height:1.5;">
+    Hi, I'm <b>Zharvian</b> — a passionate developer with interests in <b>web, mobile, and game development</b>. I love exploring new technologies and creating cool projects that push the limits of what's possible.  
+    <br><br>
+    Check out more: <a href="https://zharvians.github.io/aboutme/" style="color:#8000ff; text-decoration:none; font-weight:bold;">My About Page</a>
+  </p>
+</div>
 
 ---
 
@@ -29,9 +34,15 @@ Check out more: [My About Page](https://zharvians.github.io/aboutme/)
 
 ---
 
-<!-- Partner -->
-## Partner
-[![LunarScribe](https://img.shields.io/badge/LunarScribe-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarScribeStudios)
+<!-- Partner - Mewah -->
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:30px; margin-bottom:40px;">
+  <a href="https://github.com/LunarScribeStudios" style="text-decoration:none;">
+    <div style="background: linear-gradient(135deg, #000000, #1a1a1a, #8000ff); padding:20px 40px; border-radius:15px; color:#fff; font-weight:bold; font-family: 'Share Tech Mono', monospace; box-shadow:0 0 25px rgba(128,0,255,0.6); transition: all 0.3s ease; text-align:center;">
+      LunarScribe
+    </div>
+  </a>
+  <!-- Bisa tambahkan partner lain dengan copy-paste div di atas -->
+</div>
 
 ---
 
