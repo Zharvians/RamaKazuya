@@ -21,6 +21,7 @@
 ---
 
 ![Snake animation](https://github.com/Zharvians/Zharvians/blob/output/snake.svg)
+![Neon Snake](https://github.com/Zharvians/Zharvians/blob/output/snake-glow.svg)
 
 ---
 
