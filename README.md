@@ -21,7 +21,7 @@
 ---
 
 
-![Car]([https://github.com/Zharvians/Zharvians/blob/output/snake-glow.svg](https://github.com/Zharvians/Zharvians/blob/output/car-animation.html)
+![Car](https://github.com/Zharvians/Zharvians/blob/output/car-animation.html)
 <img src="https://github.com/Zharvians/Zharvians/blob/output/car-animation.html" />
 
 ---
